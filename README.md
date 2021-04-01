@@ -1,6 +1,6 @@
 ### Welcome to the Hive!
 
-### App Link: https://the-beebox.herokuapp.com/
+### App Link: https://bees-production-ml.herokuapp.com/
 
 <p>This project was a group production where each member used their own curiosities as fuel to find answers to complicated questions. Our original intent was to find a correlation between bee populations and crop production among commodities such as honey, almonds, and many other fruits dependent on bees for pollination. This question evolved into a breakdown of how bees are affected by climate change, colony collapse syndrome, and pesticides.</p>
 
